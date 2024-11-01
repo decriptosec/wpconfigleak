@@ -44,7 +44,6 @@ wp-config.php.backup
 wp-config.php.bak
 wp-config.php.save
 wp-config.php.old
-app-ads.txt
 wp-config.bak
 wp-config.php.sav
 wp-config.php.bkp
